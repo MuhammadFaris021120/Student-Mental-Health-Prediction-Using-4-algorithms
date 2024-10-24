@@ -5,15 +5,6 @@
 This repository provides an in-depth exploration of K-Means clustering, a widely used unsupervised learning algorithm, and introduces the concept of constrained K-Means. The ReadMe file serves as a comprehensive guide to understanding the repository's contents and offers insights into the clustering methods discussed, including a comparison with DBSCAN.
 
 
-## Team Members
-
-| Student Name                    | Student ID | Contribution                                           |
-|---------------------------------|------------|--------------------------------------------------------|
-| Muhammad Faris Bin Shaik Mohamed| 1181202007 | Enhanced the entire lab for K-Means Clustering         |
-| Muhammad Irfan Bin Nasir Khan   | 1191101753 | Enhanced lab for PCA.                                  |
-| Muhammad Irfan Bin Nasir Khan   | 1191101753 | Enhanced lab for Logistic Regression.                  |
-| Muhammad Yazid Bin Yunos        | 1191202305 | Enhanced lab for Linear Regression.                    |
-
 ## Contents
 
 1. Understanding K-Means Clustering
