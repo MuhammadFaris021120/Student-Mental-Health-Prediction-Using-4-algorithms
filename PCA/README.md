@@ -4,8 +4,6 @@
 
 This repository delves into advanced concepts of Principal Component Analysis (PCA) by applying them to real-world datasets, demonstrating how these materials can be practically utilised. The ReadMe file acts as a guide to comprehend the repository's contents and offers insights into the discussed clustering methods.
 
-## Team Members
-
  
 ## Contents
 
